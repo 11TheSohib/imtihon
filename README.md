@@ -1,1 +1,1 @@
-# imtihon
+# imtihon-homework
